@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-item{
+    background-color:rgb(241, 175, 175);
+    font-family:verdana,"DejaVu Sans",sans-serif;
+}
+#second-item{
+   color: #0000ff;
+    font-size: 36px;
+}
+.special-size{
+    font-size:24px;
+}
+#fourth-item{
+    background-color: #88E788;
+    font-size: 24px;
+    font-weight: bold;
+}
